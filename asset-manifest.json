@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lbala022/static/css/main.45734d8b.css",
-    "main.js": "/lbala022/static/js/main.bb89a523.js",
+    "main.js": "/lbala022/static/js/main.0c9df826.js",
     "static/media/vegan-protein.jpg": "/lbala022/static/media/vegan-protein.02c2e50aff48c1c619a7.jpg",
     "static/media/whey-protein.jpg": "/lbala022/static/media/whey-protein.c13ac68ee7f107901639.jpg",
     "static/media/fish-oils.png": "/lbala022/static/media/fish-oils.1b9f4ce0ce5979aecf32.png",
@@ -17,10 +17,10 @@
     "static/media/allmax-creatine.jpg": "/lbala022/static/media/allmax-creatine.d639af952e3ae567701a.jpg",
     "index.html": "/lbala022/index.html",
     "main.45734d8b.css.map": "/lbala022/static/css/main.45734d8b.css.map",
-    "main.bb89a523.js.map": "/lbala022/static/js/main.bb89a523.js.map"
+    "main.0c9df826.js.map": "/lbala022/static/js/main.0c9df826.js.map"
   },
   "entrypoints": [
     "static/css/main.45734d8b.css",
-    "static/js/main.bb89a523.js"
+    "static/js/main.0c9df826.js"
   ]
 }
